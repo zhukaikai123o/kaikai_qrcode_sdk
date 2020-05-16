@@ -12,5 +12,10 @@
             "email": "781265235@qq.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+     "autoload": {
+        "psr-4": {
+            "Test\\": "src/"
+        },
+    },
 }
