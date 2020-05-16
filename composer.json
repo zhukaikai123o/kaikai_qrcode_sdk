@@ -5,7 +5,7 @@
     "require": {
         "php": ">=7.0"
     },
-    "license": "kaikai",
+    "license": "MIT",
     "authors": [
         {
             "name": "lao hei",
