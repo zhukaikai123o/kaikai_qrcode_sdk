@@ -1,0 +1,16 @@
+{
+    "name": "kaikai/test",
+    "description": "测试包",
+    "type": "library",
+    "require": {
+        "php": "7.0"
+    },
+    "license": "kaikai",
+    "authors": [
+        {
+            "name": "lao hei",
+            "email": "781265235@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
