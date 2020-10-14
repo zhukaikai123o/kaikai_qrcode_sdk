@@ -1,5 +1,5 @@
 <?php
-namespace Test;
+namespace Kaikai\Test;
 class Test{
 
     public function zhukaikai(){
